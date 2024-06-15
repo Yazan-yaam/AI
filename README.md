@@ -1,5 +1,4 @@
-# Project Title
-AI-Powered Health Monitoring System
+# AI-Powered Health Monitoring System
 
 ## Summary
 The project aims to develop an AI-powered health monitoring system that utilizes wearable sensors to track vital signs and detect early signs of health issues. The system provides real-time alerts and insights to users and healthcare providers.
@@ -36,4 +35,3 @@ The project can be expanded to include more types of sensors and health metrics.
 * Inspired by open-source health monitoring projects.
 * Uses [TensorFlow](https://www.tensorflow.org/) for machine learning models.
 * Images used under Creative Commons license.
-
